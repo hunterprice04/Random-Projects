@@ -23,7 +23,6 @@ do
 
     echo '----------------------------------------------------------------------------------------------'
     echo "Pulling newest commits for: $line"
-    git pull
 
     echo "Updating README.md"
     url=`git config --get remote.origin.url | sed 's/git@github\.com:/https:\/\/github\.com\//' | sed 's/\.git//'`
