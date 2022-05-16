@@ -1,0 +1,12 @@
+[submodule "sierpinski_triangle"]
+	path = sierpinski_triangle
+	url = git@github.com:hunterprice04/sierpinski_triangle.git
+[submodule "ray-tracing"]
+	path = ray-tracing
+	url = git@github.com:hunterprice04/ray-tracing.git
+[submodule "SO_android_datasets"]
+	path = SO_android_datasets
+	url = git@github.com:hunterprice04/SO_android_datasets.git
+[submodule "StackOverflowWebCrawler"]
+	path = StackOverflowWebCrawler
+	url = git@github.com:hunterprice04/StackOverflowWebCrawler.git
