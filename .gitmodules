@@ -10,3 +10,9 @@
 [submodule "StackOverflowWebCrawler"]
 	path = StackOverflowWebCrawler
 	url = git@github.com:hunterprice04/StackOverflowWebCrawler.git
+[submodule "text_summarization"]
+	path = text_summarization
+	url = git@github.com:hunterprice04/text_summarization.git
+[submodule "scikit_digits"]
+	path = scikit_digits
+	url = git@github.com:hunterprice04/scikit_digits.git
